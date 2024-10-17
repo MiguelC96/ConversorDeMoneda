@@ -22,5 +22,5 @@ Antes de ejecutar la aplicación, asegúrate de tener los siguientes requisitos 
 1. **Clona el repositorio**:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/MiguelC96/ConversorDeMoneda.git
    cd conversor-moneda
